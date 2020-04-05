@@ -68,6 +68,7 @@
     <Compile Include="Pais.cs">
       <DependentUpon>Hello2020Model.tt</DependentUpon>
     </Compile>
+    <Compile Include="PaisBD.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
